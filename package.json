@@ -1,0 +1,45 @@
+{
+  "name": "nebula-dark-theme",
+  "displayName": "Nebula Dark Theme Pack",
+  "description": "Dark theme with corporate colors #121212 and #6610f2 - Includes vibrant and muted variants",
+  "version": "1.0.0",
+  "publisher": "fabocode",
+  "author": {
+    "name": "Fabo IT and Media Group",
+    "email": "hi@fabocode.com",
+    "url": "https://fabocode.com"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Dark Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebula-dark-color-theme.json"
+      },
+      {
+        "label": "Nebula Dark Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebula-dark-muted-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaboCodeDev/nebula-dark-theme"
+  },
+  "homepage": "https://github.com/FaboCodeDev/nebula-dark-theme",
+  "bugs": {
+    "url": "https://github.com/FaboCodeDev/nebula-dark-theme/issues"
+  },
+  "icon": "icon.png",
+  "keywords": ["theme", "dark", "nebula", "purple", "corporate", "muted", "vibrant"],
+  "galleryBanner": {
+    "color": "#121212",
+    "theme": "dark"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+# Archivos de desarrollo y build
+node_modules/
+.vscode/
+.vscode-test/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Archivos de control de versiones
+.git/
+.gitignore
+.gitattributes
+
+# Archivos de proyecto y editor
+*.code-workspace
+*.sln
+*.suo
+
