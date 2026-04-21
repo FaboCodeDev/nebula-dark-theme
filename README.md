@@ -3,6 +3,11 @@
 
 Un tema oscuro elegante y profesional para Visual Studio Code, diseñado con una paleta de colores corporativos optimizada para desarrollo full-stack.
 
+[![Version](https://img.shields.io/github/v/release/FaboCodeDev/nebula-dark-theme?label=version&color=6610f2)](https://github.com/FaboCodeDev/nebula-dark-theme/releases)
+[![Issues](https://img.shields.io/github/issues/FaboCodeDev/nebula-dark-theme)](https://github.com/FaboCodeDev/nebula-dark-theme/issues)
+[![License](https://img.shields.io/badge/license-MIT-20c997.svg)](LICENSE)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/fabocode.nebula-dark-theme?color=ff922b&label=marketplace)](https://marketplace.visualstudio.com/items?itemName=fabocode.nebula-dark-theme)
+
 ## 🎨 Paleta de Colores
 
 | Elemento | Código | Descripción |
